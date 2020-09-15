@@ -15,7 +15,7 @@ export default function Header() {
       sticky="top"  
       expand="lg">
         <Navbar.Brand href="/">
-          <img style={{width: "50%"}} src={Logo}></img> 
+          <img style={{width: "30%"}} src={Logo}></img> 
           
         </Navbar.Brand>
         
