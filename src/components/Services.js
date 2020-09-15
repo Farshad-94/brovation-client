@@ -20,7 +20,7 @@ export class Services extends Component {
           <div className="item1">
             <div className="item1__content">
               <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case">Kichens</i></h5>
-              <h6><i className="fas fa-font-case">countertops, cabinetry, walls, etc.</i></h6>
+              <h6><i className="fas fa-font-case">kitchen remodel, countertops, cabinetry, walls, etc.</i></h6>
               <div>
                 <i className="fas fa-font-case">
 
@@ -35,7 +35,7 @@ export class Services extends Component {
           <div className="item1">
             <div className="item1__content">
               <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case">Bathrooms</i></h5>
-              <h6><i className="fas fa-font-case">tiling, toilets, tubs, shower systems, etc.</i></h6>
+              <h6><i className="fas fa-font-case">tiling installation and repair, toilets, tubs, shower systems, etc.</i></h6>
               <div>
                 <i className="fas fa-font-case">
 
@@ -50,7 +50,7 @@ export class Services extends Component {
           <div className="item1">
             <div className="item1__content">
               <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case"></i>Basements</h5>
-              <h6><i className="fas fa-font-case">storage areas, sub-flooring, insulation upgrade, etc.</i></h6>
+              <h6><i className="fas fa-font-case">stairs, storage areas, sub-flooring, insulation upgrade, etc.</i></h6>
               <div>
                 <i className="fas fa-font-case">
 
@@ -65,7 +65,7 @@ export class Services extends Component {
           <div className="item1">
             <div className="item1__content">
               <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case">Whole House</i></h5>
-              <h6><i className="fas fa-font-case">landscaping, patching, drywall services, flooring, trim works, etc.</i></h6>
+              <h6><i className="fas fa-font-case">landscaping, attic conversion, interlocking, patching, drywall services, flooring, trim works, etc.</i></h6>
               <div>
                 <i className="fas fa-font-case">
 
