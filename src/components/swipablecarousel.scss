@@ -1,0 +1,19 @@
+.roots{
+  max-width: 500;
+  flex-grow: 1;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 50;
+  padding-left: 4rem;
+}
+
+.img {
+  height: 350;
+  display: block;
+  max-width: 700;
+  overflow-y: hidden;
+  width: 100%;
+}
