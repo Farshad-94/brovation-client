@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Logo from '../assets/logo/Brovation.svg';
 import './footer.scss';
 import 'semantic-ui-css/semantic.min.css'
+import { Link } from '@material-ui/core';
 
 
 export class Footer extends Component {
@@ -28,15 +29,28 @@ export class Footer extends Component {
             </div>
           </div>
           <div className="footer-social">
-            <button style={{margin: "0.5rem"}} className="ui circular mini facebook icon button">
-              <i className="facebook icon"></i>
-            </button>
-            <button style={{margin: "0.5rem"}} className="ui circular mini twitter icon button">
-              <i className="twitter icon"></i>
-            </button>
+            
+            <a href="https://www.facebook.com/Brovation.inc.renovation">
+              <button style={{margin: "0.5rem"}} className="ui circular mini facebook icon button">
+                <i className="facebook icon"></i>
+              </button>
+            </a>
+           
+
+          <a href="https://twitter.com/brovationc">
+              <button style={{margin: "0.5rem"}} className="ui circular mini twitter icon button">
+                <i className="twitter icon"></i>
+              </button>
+          </a>
+            
+
+          <a href="https://www.instagram.com/brovation.co/">
             <button style={{margin: "0.5rem"}} className="ui mini circular instagram icon button">
               <i className="instagram icon"></i>
             </button>
+          </a>
+
+
           </div>
         </div>
         <div className="footer-copyright">
