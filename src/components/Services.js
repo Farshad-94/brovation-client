@@ -19,7 +19,7 @@ export class Services extends Component {
 
           <div className="item1">
             <div className="item1__content">
-              <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case">Kichens</i></h5>
+              <h5 style={{fontWeight: "900", color: "#f5d02a"}} ><i className="fas fa-font-case">Kitchens</i></h5>
               <h6><i className="fas fa-font-case">kitchen remodel, countertops, cabinetry, walls, etc.</i></h6>
               <div>
                 <i className="fas fa-font-case">
