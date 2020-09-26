@@ -37,8 +37,8 @@ export default class Home extends Component {
           <div className="info">
             <p data-reveal-delay="400">
               <i className="fas fa-font-case">
-                  with years of hands-on experience and academic expertise of construction industry, 
-                  Brovation Inc. is pleased to provide you with top quality home renovation and landscaping services. bringing passion into each project, Brovation Inc. builds and provides various renovation and repair of bathrooms, kitchens, basements, and other parts of houses and condo-apartments. 
+                  With years of hands-on experience and academic expertise of construction industry, 
+                  Brovation Inc. is pleased to provide you with top quality home renovation and landscaping services. Bringing passion into each project, Brovation Inc. builds and provides various renovation and repair of bathrooms, kitchens, basements, and other parts of houses and condo-apartments. 
               </i>
             </p>
           </div>
